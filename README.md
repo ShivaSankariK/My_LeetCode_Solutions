@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
