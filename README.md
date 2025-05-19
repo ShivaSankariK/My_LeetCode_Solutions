@@ -58,11 +58,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 ## Simulation
 |  |
