@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
