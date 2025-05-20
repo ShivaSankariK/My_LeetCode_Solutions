@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
