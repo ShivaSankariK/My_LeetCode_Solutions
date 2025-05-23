@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
