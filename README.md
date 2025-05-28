@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Backtracking
