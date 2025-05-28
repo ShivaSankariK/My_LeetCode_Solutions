@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0228-summary-ranges) |
 | [1293-three-consecutive-odds](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
