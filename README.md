@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
