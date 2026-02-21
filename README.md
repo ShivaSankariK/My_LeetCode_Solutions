@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3321-type-of-triangle](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivaSankariK/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
